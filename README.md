@@ -9,7 +9,7 @@ I'm Anirudh Hegde, a Data Analytics graduate student at Northeastern University,
 ### **SKILLS | TECHNOLOGIES:**
 - **Programming:** Python, SQL, MATLAB
 - **Data Science and ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, NLTK, Spacy
-- **Data Engineering:** MySQL, PostgreSQL, MongoDB, BigQuery, Airflow, Spark, Snowflake, Databricks, Tableau
+- **Data Engineering:** MySQL, PostgreSQL, MongoDB, Tableau
 - **Deployment:** FastAPI, Docker, Kubernetes, MLflow, GitHub Actions
 - **Cloud Technologies:** Google Cloud Platform, Amazon Web Services
 - **Certifications:** Deep Learning Specialization, Advanced SQL (HackerRank)
