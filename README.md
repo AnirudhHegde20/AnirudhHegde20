@@ -1,16 +1,21 @@
-## Hi there 👋
+**Hi there 👋**
 
-<!--
-**AnirudhHegde20/AnirudhHegde20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anirudh Hegde, a Data Analytics graduate student at Northeastern University, with a strong background in Mechanical and Automation Engineering. With over 2+ years of experience in leveraging data to drive business decisions, I have honed my expertise in Analytics, Machine Learning, and MLOps, with a focus on Natural Language Processing and Predictive Analytics.
 
-Here are some ideas to get you started:
+### **EDUCATION:**
+- **Master of Science in Data Analytics Engineering** at Northeastern University, Boston (Expected: May 2025)
+- **Bachelor of Technology in Mechanical and Automation Engineering** from Guru Gobind Singh Indraprastha University (September 2020)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **SKILLS | TECHNOLOGIES:**
+- **Programming:** Python, SQL, MATLAB
+- **Data Science and ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, NLTK, Spacy
+- **Data Engineering:** MySQL, PostgreSQL, MongoDB, BigQuery, Airflow, Spark, Snowflake, Databricks, Tableau
+- **Deployment:** FastAPI, Docker, Kubernetes, MLflow, GitHub Actions
+- **Cloud Technologies:** Google Cloud Platform, Amazon Web Services
+- **Certifications:** Deep Learning Specialization, Advanced SQL (HackerRank)
+
+### **CONTACT:**
+- **Email:** anirudh.hegde@northeastern.edu
+- **Phone:** +1 (857) 398-3286
+- **LinkedIn:** [AnirudhHegde](https://www.linkedin.com/in/anirudhhegde)
+- **GitHub:** [AnirudhHegde](https://github.com/AnirudhHegde)
