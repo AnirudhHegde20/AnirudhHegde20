@@ -6,7 +6,7 @@ I’m **Anirudh Hegde**, a Data Analytics graduate student at **Northeastern Uni
 
 ## 🧑‍💻 About Me
 - 🎓 **Education**:  
-  - Master of Science in **Data Analytics Engineering** (Northeastern University, Expected: May 2025)  
+  - Master of Science in **Data Analytics Engineering** (Northeastern University,May 2025)  
   - Bachelor of Technology in **Mechanical and Automation Engineering** (Guru Gobind Singh Indraprastha University, September 2020)  
 - 🔍 Exploring advanced **MLOps**, **AI-driven solutions**, and **data engineering pipelines**.  
 - 🚀 Open to collaborations in **data science**, **machine learning**, and **NLP projects**.
