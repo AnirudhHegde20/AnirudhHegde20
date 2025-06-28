@@ -68,7 +68,6 @@ Here are some of my notable projects:
 - **Email**: [hegde.anir@northeastern.edu](mailto:hegde.anir@northeastern.edu)  
 - **LinkedIn**: [linkedin.com/in/anirudhhegde1997](https://www.linkedin.com/in/anirudhhegde1997)  
 - **GitHub**: [github.com/AnirudhHegde20](https://github.com/AnirudhHegde20)
-- **Portfolio**: [View My Portfolio](https://pie-cub-f9f.notion.site/Welcome-to-My-Portfolio-16192fc1ad0880079114df97bffa5e18?pvs=4)
 
 ---
 
