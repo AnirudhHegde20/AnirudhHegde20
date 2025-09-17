@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to My GitHub Profile!
 
-I’m **Anirudh Hegde**, a Data Analytics graduate student at **Northeastern University**, passionate about leveraging data and machine learning to drive impactful decisions. With over **2+ years of experience** in data analytics, machine learning, and MLOps, I specialize in building scalable AI solutions, especially in **Natural Language Processing** and **Predictive Analytics**.
+I’m **Anirudh Hegde**, a Data Analytics graduate student at **Northeastern University**, passionate about leveraging data and machine learning to drive impactful decisions. With over **4+ years of experience** in data analytics, machine learning, and MLOps, I specialize in building scalable AI solutions, especially in **Natural Language Processing** and **Predictive Analytics**.
 
 ---
 
