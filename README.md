@@ -26,46 +26,42 @@
 
 <br/>
 
-<!-- About Me Section -->
+<!-- About Me Section - IMPROVED -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```yaml
-name: Anirudh Hegde
-location: Boston, MA 📍
-education: 
-  degree: MS Data Analytics Engineering
-  university: Northeastern University
-  gpa: 3.92
-  graduation: May 2025
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-work_authorization: 
-  status: "F-1 OPT (STEM Extension Eligible)"
-  valid_through: "June 2028"
-  note: "No immediate sponsorship required for 3.5 years"
+Hey there! I'm **Anirudh** – a data analyst who loves turning messy datasets into clear business stories.
 
-currently_seeking: 
-  - Business Intelligence Analyst
-  - Data Analyst
-  - Analytics Engineer
+🎓 **Education:** MS in Data Analytics Engineering @ Northeastern (GPA: 3.92)
 
-core_strengths:
-  - Transforming raw data into actionable business insights
-  - Building dashboards that drive executive decision-making
-  - Statistical analysis & A/B testing with measurable ROI
-  - ETL pipeline development & automation
-```
+💼 **Experience:** 4+ years building dashboards, automating reports, and running experiments that actually moved the needle – from **$1M in cost savings** at Maruti Suzuki to **25% better marketing ROI** at Godrej & Boyce.
 
-<br/>
+🔧 **What I Do Best:**
+- Build dashboards that executives actually use (Tableau, Power BI)
+- Design A/B tests with proper statistical rigor
+- Automate the boring stuff so teams can focus on insights
+- Translate "data speak" into business recommendations
 
-<!-- Professional Impact Section -->
+✅ **Work Authorization:** F-1 OPT valid through **June 2028** (STEM Extension Eligible)  
+*No sponsorship needed for 2.5 years!*
+
+🎯 **Currently Seeking:** Business Intelligence Analyst | Data Analyst | Analytics Engineer
+
+<br clear="right"/>
+
+---
+
+<!-- Professional Impact Section - ADDED AG ELECTROCHEM -->
 ## 💼 Professional Impact
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🚗 Maruti Suzuki India
-**Assistant Manager – Data Science**
+**Assistant Manager – Data Science**  
+*June 2022 – July 2023*
 
 <img src="https://img.shields.io/badge/Sales_Records-600K+-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/Cost_Savings-$1M-green?style=flat-square"/>
@@ -75,10 +71,11 @@ core_strengths:
 - 📈 Identified **3 strategic expansion opportunities** for leadership
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🏢 Godrej & Boyce
-**Assistant Manager – Analytics**
+**Assistant Manager – Analytics**  
+*Jan 2021 – June 2022*
 
 <img src="https://img.shields.io/badge/Customers_Analyzed-100K+-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/Revenue_Protected-$1.2M-green?style=flat-square"/>
@@ -88,10 +85,24 @@ core_strengths:
 - ⏱️ Cut manual reporting time by **75%** through automation
 
 </td>
+<td width="33%">
+
+### ⚡ AG Electrochem
+**Data Analyst**  
+*May 2019 – Jan 2021*
+
+<img src="https://img.shields.io/badge/SKUs_Tracked-25+-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Report_Time-75%25_Faster-green?style=flat-square"/>
+
+- 📊 Built Tableau dashboards tracking **25+ SKUs** sales performance
+- ⏱️ Reduced reporting cycle from **8 hours to 2 hours** weekly
+- ✅ Improved data accuracy by **40%** with Python validation
+
+</td>
 </tr>
 </table>
 
-<br/>
+---
 
 <!-- Skills Section with Animated Icons -->
 ## 🛠️ Technical Skills
@@ -141,44 +152,32 @@ core_strengths:
 
 </div>
 
-<br/>
+---
 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Project Cards using GitHub Readme Stats -->
-<a href="https://github.com/AnirudhHegde20/-FinSight-Nexus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnirudhHegde20&repo=-FinSight-Nexus&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/AnirudhHegde20/Automated-BiLingual-Complaint-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnirudhHegde20&repo=Automated-BiLingual-Complaint-System&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
-<br/>
 
 ### 📌 Project Highlights
 
 | Project | Impact | Tech Stack |
 |---------|--------|------------|
-| **[FinAnalytica: Enterprise Financial Data Platform](https://github.com/AnirudhHegde20/-FinSight-Nexus)** | Improved reporting speed by **30%** for 1M+ records | Azure, Databricks, Power BI |
-| **[E-commerce Conversion Optimization](https://github.com/AnirudhHegde20/Improving-Conversion-on-an-E-commerce-Product-Page)** | Identified **18.4% uplift** in conversions | Python, Statistical Testing, A/B Testing |
-| **[Telco Customer Churn Prediction](https://github.com/AnirudhHegde20/Telco-Customer-Churn)** | Achieved **87% accuracy** in churn prediction | Python, Scikit-Learn, SMOTE |
+| **[FinSight Nexus – Financial Portfolio Analytics](https://github.com/AnirudhHegde20/-FinSight-Nexus)** | Reduced manual processing from **4 hours to 15 minutes** | Azure ADF, Databricks, PySpark, Power BI |
+| **[E-commerce Conversion Optimization](https://github.com/AnirudhHegde20/Improving-Conversion-on-an-E-commerce-Product-Page)** | Identified **18.4% uplift** → **$500K+ projected revenue** | Python, Statistical Testing, A/B Testing |
+| **[Customer Churn Prediction Engine](https://github.com/AnirudhHegde20/Telco-Customer-Churn)** | Achieved **87% accuracy** in churn prediction | Python, XGBoost, SMOTE, SHAP, Tableau |
 | **[Bilingual Complaint Classification](https://github.com/AnirudhHegde20/Automated-BiLingual-Complaint-System)** | F1 Score: **0.69** on multilingual NLP | mBERT, XLM-RoBERTa, GCP, Airflow |
 | **[RAG Multilingual News Retrieval](https://github.com/AnirudhHegde20/RAG-Based-Multilingual-News-Retrieval)** | BLEU: **0.72**, BERTScore: **0.85** | MBART50, T5, RAG Architecture |
 
-<br/>
+---
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats Section - FIXED -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnirudhHegde20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhHegde20&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnirudhHegde20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhHegde20&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&cache_seconds=1800"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhHegde20&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
@@ -186,12 +185,12 @@ core_strengths:
 
 <br/>
 
-<!-- Activity Graph -->
+<!-- Activity Graph - FIXED with different service -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnirudhHegde20&theme=tokyo-night&hide_border=true&border_radius=10" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnirudhHegde20&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-<br/>
+---
 
 <!-- Certifications Section -->
 ## 🏆 Certifications
@@ -199,11 +198,9 @@ core_strengths:
 <div align="center">
   <img src="https://img.shields.io/badge/Deep_Learning_Specialization-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
   <img src="https://img.shields.io/badge/ML_Specialization_(Andrew_Ng)-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau_Professional-Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Advanced_SQL-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </div>
 
-<br/>
+---
 
 <!-- Availability Banner -->
 ## 🎯 Open to Opportunities
@@ -216,7 +213,7 @@ core_strengths:
 ║   🟢 ACTIVELY SEEKING: Business Intelligence Analyst / Data Analyst Roles   ║
 ║                                                                              ║
 ║   📍 Location: Boston, MA (Open to Relocation)                               ║
-║   ✅ Work Authorization: F-1 OPT valid through June 2028                    ║
+║   ✅ Work Authorization: F-1 OPT valid through June 2028                     ║
 ║   ⏰ Available: Immediately                                                  ║
 ║                                                                              ║
 ║   Let's connect! I'm excited to bring data-driven insights to your team.    ║
@@ -242,11 +239,6 @@ core_strengths:
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
-
-<!-- Snake Animation - Add this if you want to set up GitHub Actions -->
-<!--
-![Snake animation](https://github.com/AnirudhHegde20/AnirudhHegde20/blob/output/github-contribution-grid-snake.svg)
--->
 
 ---
 <div align="center">
