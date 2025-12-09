@@ -222,23 +222,38 @@ Hey there! 👋 I'm **Anirudh** – a Data Analyst with **4+ years** delivering 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnirudhHegde20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhHegde20&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats-git-master-psunkari.vercel.app/api?username=AnirudhHegde20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-git-master-psunkari.vercel.app/api/top-langs/?username=AnirudhHegde20&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"
+    alt="Top Languages"
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhHegde20&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=AnirudhHegde20&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnirudhHegde20&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnirudhHegde20&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+    alt="Activity Graph"
+  />
 </div>
 
 ---
+
 
 <!-- Education Section -->
 ## 🎓 Education
