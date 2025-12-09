@@ -221,19 +221,6 @@ Hey there! 👋 I'm **Anirudh** – a Data Analyst with **4+ years** delivering 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-git-master-psunkari.vercel.app/api?username=AnirudhHegde20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats-git-master-psunkari.vercel.app/api/top-langs/?username=AnirudhHegde20&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"
-    alt="Top Languages"
-  />
-</div>
-
 <br/>
 
 <div align="center">
