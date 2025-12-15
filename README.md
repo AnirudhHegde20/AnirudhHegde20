@@ -150,17 +150,22 @@ Hey there! 👋 I'm **Anirudh** – a Data Analyst with **4+ years** delivering 
 </div>
 
 ---
-
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
 
+<!-- Added: One-line positioning so it's obvious these are different business problems -->
+<b>These 3 projects intentionally cover different business problems: growth (experiments), retention (churn risk), and customer value strategy (segmentation/CLV).</b>
+
+<br/><br/>
+
 ### 📌 Project Highlights
 
-| Project | Business Impact | Tools |
-|---------|-----------------|-------|
-| 🛒 **[E-commerce Conversion Optimization](https://github.com/AnirudhHegde20/Improving-Conversion-on-an-E-commerce-Product-Page)** | **18.4% uplift** → $500K+ projected revenue | Python, Chi-square, Fisher's Exact, Power Analysis |
-| 📊 **[FinSight Nexus – Portfolio Analytics](https://github.com/AnirudhHegde20/-FinSight-Nexus)** | **4 hours → 15 minutes** processing time | Azure ADF, Databricks, PySpark, Power BI |
-| 📉 **[Customer Churn Prediction](https://github.com/AnirudhHegde20/Telco-Customer-Churn)** | **87% accuracy** · 30-day early intervention | Python, XGBoost, SMOTE, SHAP, Tableau |
+<!-- Updated: Removed FinSight Nexus, added Customer Value Intelligence System, refined table to avoid overlap -->
+| Project | Business Problem | Business Impact | Tools |
+|---------|------------------|----------------|-------|
+| 🛒 **[E-commerce Conversion Optimization](https://github.com/AnirudhHegde20/Improving-Conversion-on-an-E-commerce-Product-Page)** | Growth: Validate if a redesign improved conversion | **18.4% uplift** → $500K+ projected revenue | Python, Chi-square, Fisher's Exact, Power Analysis |
+| 📉 **[Customer Churn Prediction](https://github.com/AnirudhHegde20/Telco-Customer-Churn)** | Retention: Predict churn early for intervention | **87% accuracy** · 30-day early warning | Python, XGBoost, SMOTE, SHAP, Tableau |
+| 💰 **[Customer Value Intelligence System](https://github.com/AnirudhHegde20/Customer-Value-Intelligence-System)** | Strategy: Identify high-value customers & prioritize spend | Segment-based targeting to improve ROI | Python, RFM, CLV, Segmentation |
 
 ---
 
@@ -182,22 +187,7 @@ Hey there! 👋 I'm **Anirudh** – a Data Analyst with **4+ years** delivering 
 
 </details>
 
-<details>
-<summary>📊 <b>FinSight Nexus – Financial Portfolio Analytics</b> (Click to expand)</summary>
-<br/>
-
-**🎯 Business Problem:** Manual portfolio monitoring and reporting took 4+ hours daily
-
-**📊 What I Did:**
-- Designed **end-to-end cloud analytics pipeline** using Azure Data Factory for ingestion, Databricks (PySpark) for transformation
-- Implemented **Synapse Analytics for OLAP modeling** with SCD Type 2 dimension tracking
-- Built **Power BI dashboards** for real-time risk-return analysis
-
-**💰 Impact:** Reduced manual processing from **4 hours to 15 minutes**, enabling faster portfolio rebalancing decisions for investment teams
-
-**🛠️ Tools:** `Azure Data Factory` `Databricks` `PySpark` `Synapse Analytics` `Power BI`
-
-</details>
+<!-- Removed: FinSight Nexus – Financial Portfolio Analytics -->
 
 <details>
 <summary>📉 <b>Customer Churn Prediction Engine</b> (Click to expand)</summary>
@@ -213,6 +203,24 @@ Hey there! 👋 I'm **Anirudh** – a Data Analyst with **4+ years** delivering 
 **💰 Impact:** Enabled early intervention with high-risk customer segments identified **30 days before expected churn**
 
 **🛠️ Tools:** `Python` `XGBoost` `Random Forest` `SMOTE` `SHAP` `Tableau`
+
+</details>
+
+<!-- Added: Customer Value Intelligence System -->
+<details>
+<summary>💰 <b>Customer Value Intelligence System</b> (Click to expand)</summary>
+<br/>
+
+**🎯 Business Problem:** Not all customers should be treated the same. Identify high-value segments and prioritize marketing/retention spend.
+
+**📊 What I Did:**
+- Built a customer value framework using **RFM analysis** and **CLV concepts**
+- Segmented customers into actionable groups (high value, loyal, at-risk, dormant)
+- Created a simple scoring approach to guide **retention, upsell, and reactivation** strategies
+
+**💰 Impact:** Delivered a repeatable decision framework to focus effort on high-value customers and reduce wasted spend on low-impact segments.
+
+**🛠️ Tools:** `Python` `Pandas` `RFM` `CLV` `Customer Segmentation`
 
 </details>
 
