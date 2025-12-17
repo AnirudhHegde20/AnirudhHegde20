@@ -153,78 +153,92 @@ Hey there! 👋 I'm **Anirudh** – a Data Analyst with **4+ years** delivering 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
 
-<!-- Added: One-line positioning so it's obvious these are different business problems -->
-<b>These 3 projects intentionally cover different business problems: growth (experiments), retention (churn risk), and customer value strategy (segmentation/CLV).</b>
+<b>These projects intentionally cover growth (experimentation), analytics engineering (pipelines), retention (churn prediction), and customer value strategy.</b>
 
 <br/><br/>
 
 ### 📌 Project Highlights
 
-<!-- Updated: Removed FinSight Nexus, added Customer Value Intelligence System, refined table to avoid overlap -->
 | Project | Business Problem | Business Impact | Tools |
 |---------|------------------|----------------|-------|
-| 🛒 **[E-commerce Conversion Optimization](https://github.com/AnirudhHegde20/Improving-Conversion-on-an-E-commerce-Product-Page)** | Growth: Validate if a redesign improved conversion | **18.4% uplift** → $500K+ projected revenue | Python, Chi-square, Fisher's Exact, Power Analysis |
-| 📉 **[Customer Churn Prediction](https://github.com/AnirudhHegde20/Telco-Customer-Churn)** | Retention: Predict churn early for intervention | **87% accuracy** · 30-day early warning | Python, XGBoost, SMOTE, SHAP, Tableau |
-| 💰 **[Customer Value Intelligence System](https://github.com/AnirudhHegde20/Customer-Value-Intelligence-System)** | Strategy: Identify high-value customers & prioritize spend | Segment-based targeting to improve ROI | Python, RFM, CLV, Segmentation |
+| 🛒 **[E-commerce Conversion Optimization](https://github.com/AnirudhHegde20/Improving-Conversion-on-an-E-commerce-Product-Page)** | Growth: Validate redesign impact via experimentation | **18.4% uplift** → $500K+ projected revenue | Python, Chi-square, Fisher’s Exact, Power Analysis |
+| ⚙️ **[FinSight Nexus: Financial Portfolio Analytics Pipeline](https://github.com/AnirudhHegde20/-FinSight-Nexus.git)** | Analytics Engineering: Automate portfolio reporting | **4 hrs → 15 min** reporting | Azure Data Factory, Databricks (PySpark), Synapse, Power BI |
+| 📉 **[Customer Churn Prediction Engine](https://github.com/AnirudhHegde20/Telco-Customer-Churn)** | Retention: Predict churn early for intervention | **87% accuracy** · 30-day early warning | Python, XGBoost, SMOTE, SHAP, Tableau |
+| 💰 **[Customer Value Intelligence System](https://github.com/AnirudhHegde20/Customer-Value-Intelligence-System)** | Strategy: Identify high-value customers & prioritize spend | ROI-driven customer targeting | Python, RFM, CLV, Segmentation |
 
 ---
 
 <!-- Detailed Project Cards -->
+
 <details>
 <summary>🛒 <b>E-commerce Conversion Optimization</b> (Click to expand)</summary>
 <br/>
 
-**🎯 Business Problem:** Evaluate if a product page redesign improved conversions across segments
+**🎯 Business Problem:**  
+Evaluate if a product page redesign improved conversions across segments.
 
 **📊 What I Did:**
-- Conducted rigorous A/B test analysis using **Chi-square, Fisher's Exact tests, and power analysis** on 2K+ user interactions
-- Analyzed conversion impact across regional and device segments to ensure experimental validity
-- Identified statistically significant uplift in specific segments while flagging underperforming ones
+- Conducted A/B test analysis using **Chi-square, Fisher’s Exact tests, and power analysis** on 2K+ user interactions
+- Analyzed impact across regional and device segments
+- Flagged underperforming segments to reduce rollout risk
 
-**💰 Impact:** Identified **18.4% conversion uplift** in Europe-Tablet segment (p=0.015), projecting **$500K+ annual revenue increase**. Delivered selective rollout recommendation preventing losses in underperforming segments.
-
-**🛠️ Tools:** `Python` `Pandas` `Scipy` `Plotly` `Statistical Testing`
+**💰 Impact:**  
+Identified **18.4% conversion uplift** in Europe–Tablet (p=0.015), projecting **$500K+ annual revenue impact** and recommending a selective rollout to avoid losses.
 
 </details>
 
-<!-- Removed: FinSight Nexus – Financial Portfolio Analytics -->
+<details>
+<summary>⚙️ <b>FinSight Nexus: Financial Portfolio Analytics Pipeline</b> (Click to expand)</summary>
+<br/>
+
+**🎯 Business Problem:**  
+Manual portfolio reporting was slow and delayed investment decisions.
+
+**📊 What I Did:**
+- Built an end-to-end analytics pipeline using **Azure Data Factory** and **Databricks (PySpark)**
+- Modeled analytical tables in **Synapse Analytics** with **SCD Type 2** handling
+- Automated refresh and reporting workflows
+
+**💰 Impact:**  
+Reduced reporting time from **4 hours to 15 minutes**, enabling faster portfolio rebalancing and risk-return analysis.
+
+</details>
 
 <details>
 <summary>📉 <b>Customer Churn Prediction Engine</b> (Click to expand)</summary>
 <br/>
 
-**🎯 Business Problem:** Identify at-risk customers before they churn to enable proactive retention
+**🎯 Business Problem:**  
+Identify at-risk customers early to enable proactive retention.
 
 **📊 What I Did:**
-- Analyzed **7K+ telecom customer records** to identify key churn drivers (contract type, tenure, monthly charges)
-- Built predictive model using **statistical modeling** achieving **87% accuracy** with **SHAP-based interpretability**
-- Created **Tableau dashboard** with targeted retention recommendations for marketing leadership
+- Analyzed **7K+ telecom customer records** to identify churn drivers
+- Trained ensemble models (**XGBoost, Random Forest**) with **SMOTE**
+- Used **SHAP** for model interpretability
 
-**💰 Impact:** Enabled early intervention with high-risk customer segments identified **30 days before expected churn**
-
-**🛠️ Tools:** `Python` `XGBoost` `Random Forest` `SMOTE` `SHAP` `Tableau`
+**💰 Impact:**  
+Achieved **87% accuracy** and enabled retention targeting up to **30 days before expected churn**.
 
 </details>
 
-<!-- Added: Customer Value Intelligence System -->
 <details>
-<summary>💰 <b>Customer Value Intelligence System</b> (Click to expand)</summary>
+<summary>💰 <b>Customer Value Intelligence System (RFM + CLV)</b> (Click to expand)</summary>
 <br/>
 
-**🎯 Business Problem:** Not all customers should be treated the same. Identify high-value segments and prioritize marketing/retention spend.
+**🎯 Business Problem:**  
+Treating all customers equally led to inefficient marketing and retention spend.
 
 **📊 What I Did:**
-- Built a customer value framework using **RFM analysis** and **CLV concepts**
-- Segmented customers into actionable groups (high value, loyal, at-risk, dormant)
-- Created a simple scoring approach to guide **retention, upsell, and reactivation** strategies
+- Built an RFM-based segmentation framework using **SQL and Python**
+- Integrated **CLV concepts** to prioritize high-value customers
+- Defined actionable segments (high-value, loyal, at-risk, dormant)
 
-**💰 Impact:** Delivered a repeatable decision framework to focus effort on high-value customers and reduce wasted spend on low-impact segments.
-
-**🛠️ Tools:** `Python` `Pandas` `RFM` `CLV` `Customer Segmentation`
+**💰 Impact:**  
+Enabled value-based targeting and decision-making to improve marketing ROI and reduce wasted spend.
 
 </details>
 
----
+--
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Analytics
@@ -272,13 +286,14 @@ Hey there! 👋 I'm **Anirudh** – a Data Analyst with **4+ years** delivering 
 **BTech in Mechanical & Automation**  
 *New Delhi, India · Sept 2020*
 
+<img src="https://img.shields.io/badge/GPA-3.2-gold?style=flat-square"/>
+
 **Coursework:** Operations Research, Optimization Techniques, Numerical & Statistical Analysis
 
 </td>
 </tr>
 </table>
 
----
 
 <!-- Availability Banner -->
 ## 🎯 Open to Opportunities
