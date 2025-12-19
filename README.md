@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=4%2B+Years+Delivering+Business+Intelligence+%26+Data+Insights;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+A%2FB+Testing;%E2%9C%85+F-1+OPT+Valid+Through+June+2028" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=4%2B+Years+in+Analytics+%26+BI;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+A%2FB+Testing;Churn+%7C+CLV+%7C+Segmentation+%7C+Dashboards+%7C+Pipelines;F-1+OPT+Valid+Through+June+2028" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,232 +18,77 @@
   <a href="mailto:anirudh.hegde07@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <img src="https://komarev.com/ghpvc/?username=AnirudhHegde20&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </div>
 
 <br/>
 
-<!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 <img align="right" alt="Data Analytics" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-Hey there! 👋 I'm **Anirudh** – a Data Analyst with **4+ years** delivering business intelligence and data-driven insights that drive strategic decision-making.
+Hey! I'm **Anirudh** — a **Data Analyst** with **4+ years** delivering business and product insights through **SQL, Python, and BI tools**.
 
-🎓 **Education:** MS in Data Analytics Engineering @ Northeastern (GPA: 3.92)
+I’ve worked across **dashboarding, experimentation (A/B testing), customer analytics, and decision optimization**, and I’ve built **churn prediction, CLV, and segmentation** models to support **growth and retention** strategies. I’m big on turning messy analysis into clear, usable decisions for stakeholders.
 
-💼 **What I've Delivered:**
-- 💰 **$1M+ revenue gains** through forecasting models at Maruti Suzuki
-- 📈 **$2M+ opportunities** identified via competitive market analysis
-- 🎯 **25% better campaign ROI** through customer segmentation
-- ⏱️ **75% reduction** in manual reporting time
-
-🔧 **Core Expertise:**
-- 📊 Dashboard Development & KPI Tracking
-- 🧪 A/B Testing & Statistical Analysis
-- 📈 Executive Reporting & Data Storytelling
-- ⚡ ETL Pipelines & Automation
-
-✅ **Work Authorization:** F-1 OPT through **June 2028**  
-*No sponsorship needed for 2.5 years!*
-
-🎯 **Seeking:** Data Analyst | BI Analyst | Analytics Engineer
+- 🎓 **MS in Data Analytics Engineering** — Northeastern University, Boston (**GPA: 3.92**)
+- ✅ **Work Authorization:** **F-1 OPT valid through June 2028**
+- 🎯 **Seeking:** Data Analyst | BI Analyst | Analytics Engineer
 
 <br clear="right"/>
 
 ---
 
-<!-- Professional Impact Section -->
-## 💼 Professional Experience
+## 💼 Experience
 
-<table>
-<tr>
-<td width="33%">
+### 🚗 Maruti Suzuki India Limited — Gurugram, India  
+**Assistant Manager (Data Analyst)** · *June 2022 – July 2023*
+- Analyzed sales and market data across **8+ passenger vehicle segments** using **SQL, Python, and Excel** to support quarterly product planning and launch sequencing
+- Developed and maintained **Power BI dashboards** tracking weekly sales volume, regional market share, and dealer performance KPIs; used by department heads and senior management in weekly planning reviews
+- Conducted competitor and market trend analysis using industry reports and internal sales data to assess demand shifts for upcoming models; presented insights to cross-functional teams across sales, marketing, and engineering
+- Represented Maruti Suzuki at **Auto Expo 2023** and **India Energy Week (G20)**, supporting senior leadership with data-backed product briefs and market insights for investor and partner discussions
 
-### 🚗 Maruti Suzuki India
-**Assistant Manager (Data Analyst)**  
-*June 2022 – July 2023*
+### 🏢 Godrej & Boyce Mfg Co Ltd — New Delhi, India  
+**Assistant Manager (Business Analyst)** · *Jan 2021 – June 2022*
+- Tracked and analyzed project performance metrics including **SLA compliance, turnaround time, escalation rates, and service quality scores** using **SQL and Excel** across **5+ concurrent service engagements**
+- Built **Power BI dashboards** for project financials, budget variances, and delivery status, giving leadership near real-time visibility into cost and operational performance across client accounts
+- Analyzed operational data using **Python (pandas)** and **SQL** to identify bottlenecks and recurring inefficiencies; collaborated via **Jira** to prioritize fixes and support on-time delivery and resource allocation decisions
 
-<img src="https://img.shields.io/badge/Transactions-600K+-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Revenue_Gains-$1M+-green?style=flat-square"/>
-
-- 📊 Built forecasting models improving accuracy by **12pp**
-- 🧪 Automated A/B testing for **15+ campaigns**, cutting analysis time by **40%**
-- 📈 Led market analysis identifying **$2M+ opportunities** for C-suite
-
-</td>
-<td width="33%">
-
-### 🏢 Godrej & Boyce
-**Assistant Manager (Business Analyst)**  
-*Jan 2021 – June 2022*
-
-<img src="https://img.shields.io/badge/Customers-100K+-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Revenue_Protected-$1.2M-green?style=flat-square"/>
-
-- 🎯 Customer segmentation improving ROI by **25%** & repeat purchases by **12%**
-- 📉 Built churn model reducing quarterly churn by **5%**
-- ⏱️ Automated KPI reporting cutting effort by **75%**
-
-</td>
-<td width="33%">
-
-### ⚡ AG Electrochem
-**Data Analyst**  
-*May 2019 – Jan 2021*
-
-<img src="https://img.shields.io/badge/SKUs_Tracked-25+-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Report_Time-75%25_Faster-green?style=flat-square"/>
-
-- 📊 Built Tableau dashboards for **25+ SKUs**
-- ⏱️ Reduced reporting from **8hrs → 2hrs** weekly
-- ✅ Improved data accuracy by **40%**
-
-</td>
-</tr>
-</table>
+### ⚡ AG Electrochem — Gurugram, India  
+**Data Analyst** · *May 2019 – Jan 2021*
+- Analyzed sales and customer data using **Python and SQL** to track product-wise performance, regional demand trends, and customer mix; supported monthly sales planning, account reviews, and pricing discussions
+- Conducted market and supply-chain analysis to identify demand patterns, inventory gaps, and fulfillment risks; prepared summary reports for sales and operations teams to support inventory planning and customer development decisions
 
 ---
 
-<!-- Skills Section -->
 ## 🛠️ Technical Skills
 
-<div align="center">
-
-### 📊 Business Intelligence
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel_(Advanced)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KPI_Tracking-4285F4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Storytelling-FF6B6B?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 💻 Analytics & Programming
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/A%2FB_Testing-FF5733?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hypothesis_Testing-4ECDC4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Segmentation-96CEB4?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 📈 Statistics & Experimentation
-<p>
-  <img src="https://img.shields.io/badge/Regression-45B7D1?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Time_Series-9B59B6?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ANOVA-E74C3C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chi--Square-3498DB?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Analysis-1ABC9C?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 🔧 Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</p>
-
-</div>
+**Programming & Analytics:** Python (pandas, NumPy, scikit-learn), SQL (CTEs, window functions), Excel (Advanced)  
+**Analytics & Experimentation:** A/B Testing, Hypothesis Testing, Chi-square, T-tests, Power Analysis, Segmentation, Regression  
+**Machine Learning:** Random Forest, XGBoost, Clustering, Churn Analysis, CLV Modeling, SHAP Explainability  
+**Data Visualization & BI:** Power BI, Tableau, Plotly, Streamlit, Dashboard Development, KPI Tracking, Data Storytelling  
+**Tools:** Azure Data Factory, Databricks (PySpark), Synapse Analytics, Git/GitHub, Jira  
 
 ---
-<!-- Featured Projects Section -->
+
 ## 🚀 Featured Projects
 
-<b>These projects intentionally cover growth (experimentation), analytics engineering (pipelines), retention (churn prediction), and customer value strategy.</b>
+| Project | What it does | Highlights | Stack |
+|---|---|---|---|
+| 📉 **Customer Churn Prediction Engine** | Predict churn and prioritize retention actions | **0.83 ROC-AUC**, profit-optimized thresholds, SHAP explainability, Streamlit app | Python, XGBoost, Random Forest, SMOTE, SHAP, Streamlit |
+| 🛒 **E-commerce Conversion Optimization** | Analyze product page A/B test results | Device + region analysis, chi-square + Fisher’s test + power analysis on **2K observations**, rollout recommendation | Python, SQL, pandas, Plotly, Statistical Testing |
+| ⚙️ **FinSight Nexus – Financial Portfolio Analytics** | Analytics pipeline + reporting for portfolios | Data structured/transformed for consistent reporting + Power BI dashboards for allocation/returns/risk | Azure Data Factory, Databricks (PySpark), Synapse, Power BI |
+| 💰 **Customer Value Intelligence System** | Segment customers + forecast CLV | RFM + clustering + BG/NBD + Gamma-Gamma CLV, Streamlit dashboard for value tiers & at-risk customers | Python, SQL, RFM, K-Means, BG/NBD, Streamlit |
 
-<br/><br/>
-
-### 📌 Project Highlights
-
-| Project | Business Problem | Business Impact | Tools |
-|---------|------------------|----------------|-------|
-| 🛒 **[E-commerce Conversion Optimization](https://github.com/AnirudhHegde20/Improving-Conversion-on-an-E-commerce-Product-Page)** | Growth: Validate redesign impact via experimentation | **18.4% uplift** → $500K+ projected revenue | Python, Chi-square, Fisher’s Exact, Power Analysis |
-| ⚙️ **[FinSight Nexus: Financial Portfolio Analytics Pipeline](https://github.com/AnirudhHegde20/-FinSight-Nexus.git)** | Analytics Engineering: Automate portfolio reporting | **4 hrs → 15 min** reporting | Azure Data Factory, Databricks (PySpark), Synapse, Power BI |
-| 📉 **[Customer Churn Prediction Engine](https://github.com/AnirudhHegde20/Telco-Customer-Churn)** | Retention: Predict churn early for intervention | **87% accuracy** · 30-day early warning | Python, XGBoost, SMOTE, SHAP, Tableau |
-| 💰 **[Customer Value Intelligence System](https://github.com/AnirudhHegde20/Customer-Value-Intelligence-System)** | Strategy: Identify high-value customers & prioritize spend | ROI-driven customer targeting | Python, RFM, CLV, Segmentation |
+### 🔗 Project Links
+- Customer Churn Prediction Engine: https://github.com/AnirudhHegde20/Telco-Customer-Churn.git  
+- E-commerce Conversion Optimization: https://github.com/AnirudhHegde20/Improving-Conversion-on-an-E-commerce-Product-Page.git  
+- FinSight Nexus: https://github.com/AnirudhHegde20/-FinSight-Nexus.git  
+- Customer Value Intelligence System: https://github.com/AnirudhHegde20/Customer-Value-Intelligence-System.git  
 
 ---
 
-<!-- Detailed Project Cards -->
-
-<details>
-<summary>🛒 <b>E-commerce Conversion Optimization</b> (Click to expand)</summary>
-<br/>
-
-**🎯 Business Problem:**  
-Evaluate if a product page redesign improved conversions across segments.
-
-**📊 What I Did:**
-- Conducted A/B test analysis using **Chi-square, Fisher’s Exact tests, and power analysis** on 2K+ user interactions
-- Analyzed impact across regional and device segments
-- Flagged underperforming segments to reduce rollout risk
-
-**💰 Impact:**  
-Identified **18.4% conversion uplift** in Europe–Tablet (p=0.015), projecting **$500K+ annual revenue impact** and recommending a selective rollout to avoid losses.
-
-</details>
-
-<details>
-<summary>⚙️ <b>FinSight Nexus: Financial Portfolio Analytics Pipeline</b> (Click to expand)</summary>
-<br/>
-
-**🎯 Business Problem:**  
-Manual portfolio reporting was slow and delayed investment decisions.
-
-**📊 What I Did:**
-- Built an end-to-end analytics pipeline using **Azure Data Factory** and **Databricks (PySpark)**
-- Modeled analytical tables in **Synapse Analytics** with **SCD Type 2** handling
-- Automated refresh and reporting workflows
-
-**💰 Impact:**  
-Reduced reporting time from **4 hours to 15 minutes**, enabling faster portfolio rebalancing and risk-return analysis.
-
-</details>
-
-<details>
-<summary>📉 <b>Customer Churn Prediction Engine</b> (Click to expand)</summary>
-<br/>
-
-**🎯 Business Problem:**  
-Identify at-risk customers early to enable proactive retention.
-
-**📊 What I Did:**
-- Analyzed **7K+ telecom customer records** to identify churn drivers
-- Trained ensemble models (**XGBoost, Random Forest**) with **SMOTE**
-- Used **SHAP** for model interpretability
-
-**💰 Impact:**  
-Achieved **87% accuracy** and enabled retention targeting up to **30 days before expected churn**.
-
-</details>
-
-<details>
-<summary>💰 <b>Customer Value Intelligence System (RFM + CLV)</b> (Click to expand)</summary>
-<br/>
-
-**🎯 Business Problem:**  
-Treating all customers equally led to inefficient marketing and retention spend.
-
-**📊 What I Did:**
-- Built an RFM-based segmentation framework using **SQL and Python**
-- Integrated **CLV concepts** to prioritize high-value customers
-- Defined actionable segments (high-value, loyal, at-risk, dormant)
-
-**💰 Impact:**  
-Enabled value-based targeting and decision-making to improve marketing ROI and reduce wasted spend.
-
-</details>
-
---
-
-<!-- GitHub Stats Section -->
 ## 📊 GitHub Analytics
-
-<br/>
 
 <div align="center">
   <img
@@ -263,59 +108,39 @@ Enabled value-based targeting and decision-making to improve marketing ROI and r
 
 ---
 
-
-<!-- Education Section -->
 ## 🎓 Education
 
-<table>
-<tr>
-<td width="50%">
+**Northeastern University** — Boston, MA  
+**MS in Data Analytics Engineering** · *May 2025* · **GPA: 3.92**  
+Coursework: MLOps, NLP, Data Mining, Intro to Computational Statistics, Data Management for Analytics
 
-### 🏛️ Northeastern University
-**MS in Data Analytics Engineering**  
-*Boston, MA · May 2025*
+**Guru Gobind Singh Indraprastha University** — New Delhi, India  
+**BTech in Mechanical and Automation** · *Sept 2020*  
+Coursework: Operations Research, Optimization Techniques, Numerical Analysis and Statistical Techniques
 
-<img src="https://img.shields.io/badge/GPA-3.92-gold?style=flat-square"/>
+---
 
-**Coursework:** Data Mining, Computational Statistics, Data Management for Analytics
-
-</td>
-<td width="50%">
-
-### 🏛️ GGSIPU
-**BTech in Mechanical & Automation**  
-*New Delhi, India · Sept 2020*
-
-<img src="https://img.shields.io/badge/GPA-3.2-gold?style=flat-square"/>
-
-**Coursework:** Operations Research, Optimization Techniques, Numerical & Statistical Analysis
-
-</td>
-</tr>
-</table>
-
-
-<!-- Availability Banner -->
 ## 🎯 Open to Opportunities
 
 <div align="center">
-  
+
 ```
+
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
-║   🟢 ACTIVELY SEEKING: Data Analyst | BI Analyst | Analytics Engineer         ║
+║   🟢 SEEKING: Data Analyst | BI Analyst | Analytics Engineer                   ║
 ║                                                                               ║
-║   📍 Location: Boston, MA (Open to Relocation within US)                      ║
-║   ✅ Work Authorization: F-1 OPT valid through June 2028                      ║
-║   💼 No sponsorship required for 2.5 years!                                   ║
-║   ⏰ Available: Immediately                                                   ║
+║   📍 Location: Boston, MA (Open to Relocation)                                ║
+║   ✅ Work Authorization: F-1 OPT valid through June 2028                       ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
+
 ```
 
 </div>
 
-<!-- Contact Section -->
+---
+
 <div align="center">
   <a href="https://linkedin.com/in/anirudhhegde1997">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -331,8 +156,6 @@ Enabled value-based targeting and decision-making to improve marketing ROI and r
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
