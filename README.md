@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=4%2B+Years+in+Analytics+%26+BI;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Experimentation;Churn+%7C+CLV+%7C+Segmentation+%7C+Dashboards+%7C+Data+Models;F-1+OPT+Valid+Through+June+2028" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=4%2B+Years+in+Data+Analytics+%26+BI;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Experimentation+%7C+Churn+%7C+CLV+%7C+Segmentation;F-1+OPT+Valid+Through+June+2028" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,9 +30,9 @@
 
 <img align="right" alt="Data Analytics" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-Hey, I’m **Anirudh** — a **Data Analyst** with **4+ years** delivering business and product insights using **SQL, Python, and BI tools**.
+Hey, I’m **Anirudh** — a **Data Analyst** with **4+ years** using **SQL, Python, and BI tools** to drive product and operational decisions.
 
-My work sits at the intersection of **dashboards, experimentation (A/B testing), and customer analytics**, and I’ve built **churn prediction, CLV, and segmentation** models to support **growth and retention** decisions. I enjoy turning messy data into clear, usable actions for cross-functional teams.
+I build **KPI dashboards**, stakeholder-ready reporting, and analytics that support **experimentation (A/B testing)** and **customer analytics** (churn, CLV, segmentation). I like taking messy data, cleaning it up, and turning it into decisions teams can actually act on.
 
 - 🎓 **MS in Data Analytics Engineering** — Northeastern University, Boston (**GPA: 3.92**)  
 - ✅ **Work Authorization:** **F-1 OPT valid through June 2028**
@@ -44,38 +44,40 @@ My work sits at the intersection of **dashboards, experimentation (A/B testing),
 
 ## 💼 Experience
 
-### 🧩 Ipserlab LLC — Remote, USA  
+### 🧩 Ipserlab LLC — USA  
 **Supply Chain Analyst** · *July 2025 – Present*
-- Conducted competitive landscape and supplier analysis across manufacturing segments using SQL and Excel, informing product positioning and pricing strategy and identifying target vendor categories and market entry opportunities
-- Defined analytics requirements and designed a PostgreSQL schema with engineering for vendor, product, and transaction data, building infrastructure that supports KPI tracking and BI reporting
-- Translated supply chain expertise into technical documentation, aligning product and engineering on data architecture decisions for the platform
+- Designed a **PostgreSQL relational data model (10+ tables)** for vendor, product, supply, and transaction entities, defining relationships and constraints to support analytics-ready datasets
+- Generated **1,000+ synthetic test records** in Python and wrote SQL validation queries to verify schema behavior and integration flows, improving end-to-end testing reliability
+- Owned competitive and supplier landscape research (**5+ competitors, 25+ vendors**), translating findings into recommendations supporting product positioning and go-to-market strategy
 
 ### 🚗 Maruti Suzuki India Limited — Gurugram, India  
 **Assistant Manager (Data Analyst)** · *June 2022 – July 2023*
-- Built and automated Power BI dashboards tracking product development KPIs and test metrics across 240+ vehicle models, giving leadership real-time visibility into R&D progress and launch readiness
-- Performed competitive technology research and market analysis to forecast adoption trends in emerging powertrain technologies, producing insights used to shape long-term product strategy and R&D investment priorities
-- Maintained and analyzed product pipeline data for current and upcoming vehicle models, supporting quarterly planning cycles and optimizing new-model launch sequencing
-- Partnered with marketing, sales, vehicle planning, and Suzuki Japan teams, using Power BI dashboards to align product roadmaps and share market intelligence, resulting in a unified global strategy and faster cross-functional decision-making
+- Built Power BI dashboards tracking product development KPIs and test metrics across **240+ vehicle models**, consolidating multiple internal trackers into weekly leadership reporting on R&D progress and launch readiness
+- Analyzed **1,000+ product test records** using Python and SQL to evaluate performance vs. regulatory standards; built a repeatable workflow for cleaning, validation, and summary tables to support product decisions for future models
+- Conducted competitive and market analysis on emerging powertrain technologies, delivering recommendations that informed long-term product strategy and R&D prioritization
+- Partnered with Marketing, Sales, Vehicle Planning, and Suzuki Japan, delivering dashboards, KPI readouts, and market intelligence to support global planning discussions
 
 ### 🏢 Godrej & Boyce Mfg Co Ltd — New Delhi, India  
 **Assistant Manager (Business Analyst)** · *Jan 2021 – June 2022*
-- Developed and maintained Power BI dashboards tracking project financials, budget variances, and delivery milestones across multiple client accounts, providing leadership with real-time visibility into cost and operational performance
-- Analyzed operational data using Python (pandas) and SQL to identify process bottlenecks and recurring inefficiencies, collaborating with cross-functional teams via Jira to implement fixes and improve on-time project delivery
+- Developed Power BI dashboards tracking project financials, budget variances, and delivery milestones across **4–5 government client accounts**, providing weekly leadership visibility into cost and operational performance
+- Diagnosed process bottlenecks using Python (pandas) and SQL; collaborated via Jira to implement fixes, track remediation progress, and improve on-time project delivery
+- Led requirements gathering and issue resolution for government client accounts, coordinating across teams and end users to document requirements and align acceptance criteria
 
 ### ⚡ AG Electrochem — Gurugram, India  
 **Business Analyst** · *May 2019 – Jan 2021*
-- Tracked sales and customer data with Python and SQL, evaluated product performance, regional demand trends, and customer mix, and informed monthly sales planning, account reviews, and pricing strategies
-- Assessed market and supply-chain data using SQL, identified demand patterns, inventory gaps, and fulfillment risks, and prepared reports that supported inventory planning and customer development initiatives
+- Drove monthly sales and customer performance analysis using Python and SQL across **30 SKUs** and **60+ accounts**, supporting planning, account reviews, and pricing decisions
+- Evaluated market and supply-chain data using SQL to identify demand patterns, inventory gaps, and fulfillment risks; produced weekly/monthly reports that supported inventory planning and **reduced stockouts by 25%**
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming & Analytics:** Python (pandas, NumPy, scikit-learn), SQL (CTEs, window functions), Excel (Advanced)  
-**Analytics & Experimentation:** A/B Testing, Hypothesis Testing, Chi-square, T-tests, Power Analysis, Segmentation, Regression  
-**Machine Learning:** Random Forest, XGBoost, Clustering, Churn Analysis, CLV Modeling, SHAP Explainability  
-**Data Visualization & BI:** Power BI, Tableau, Plotly, Streamlit, Dashboard Development, KPI Tracking, Data Storytelling  
-**Tools:** PostgreSQL, Git/GitHub, Jira, Azure Data Factory, Databricks (PySpark), Synapse Analytics  
+**SQL:** CTEs, window functions, joins  
+**Python:** pandas, NumPy, scikit-learn  
+**Experimentation / Statistics:** A/B testing, hypothesis testing, t-tests, chi-square, power analysis, segmentation, regression  
+**Data Visualization & BI:** Power BI, Tableau, Plotly, Streamlit, KPI dashboards  
+**ML / Customer Analytics:** churn analysis, CLV modeling, clustering, XGBoost, SHAP  
+**Data / Tools:** PostgreSQL, Excel, Git, GitHub, Jira, Azure Data Factory, Databricks (PySpark), Azure Synapse Analytics  
 
 ---
 
@@ -83,9 +85,9 @@ My work sits at the intersection of **dashboards, experimentation (A/B testing),
 
 | Project | What it does | Highlights | Stack |
 |---|---|---|---|
-| 📉 **Customer Churn Prediction Engine** | Predict churn and prioritize retention actions | **0.83 ROC-AUC**, profit-optimized thresholds, SHAP explainability, Streamlit app | Python, XGBoost, Random Forest, SMOTE, SHAP, Streamlit |
-| 🛒 **E-commerce Conversion Optimization** | Analyze product page A/B test results | Device + region analysis, chi-square + Fisher’s test + power analysis on **2K observations**, rollout recommendation | Python, SQL, pandas, Plotly, Statistical Testing |
-| 💰 **Customer Value Intelligence System** | Segment customers + forecast CLV | RFM + clustering + BG/NBD + Gamma-Gamma CLV, Streamlit dashboard for value tiers & at-risk customers | Python, SQL, RFM, K-Means, BG/NBD, Streamlit |
+| 📉 **Customer Churn Prediction Engine** | Predict churn and prioritize retention actions | **0.83 ROC-AUC**, profit-optimized thresholds, SHAP explainability, Streamlit app | Python, Random Forest, XGBoost, SMOTE, SHAP, Streamlit |
+| 🛒 **E-commerce Conversion Optimization** | Analyze product page A/B test results | Device + region analysis, chi-square + Fisher’s test + power analysis on **2K observations**, selective rollout recommendation | Python, SQL, pandas, Plotly, Statistical Testing |
+| 💰 **Customer Value Intelligence System** | Segment customers + forecast CLV | RFM + clustering + probabilistic CLV forecasting, Streamlit dashboard for value tiers & at-risk customers | Python, SQL, RFM, K-Means, BG/NBD, Streamlit |
 
 ### 🔗 Project Links
 - 📉 Customer Churn Prediction Engine: https://github.com/AnirudhHegde20/Telco-Customer-Churn.git  
