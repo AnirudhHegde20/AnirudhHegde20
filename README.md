@@ -100,17 +100,6 @@ I’m Anirudh, a Data Analyst (Product & Growth Analytics) with 4+ years using S
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=AnirudhHegde20&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
-  />
-</div>
-
----
-
 ## 🎓 Education
 
 **Northeastern University** — Boston, MA  
