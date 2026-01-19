@@ -66,11 +66,11 @@ I’m Anirudh, a Data Analyst (Product & Growth Analytics) with 4+ years using S
 **Data Analyst** · *July 2025 – Present*
 - Designed a PostgreSQL data model (10+ tables) for vendor, product, and transaction data. Built validation framework using Python and SQL with 1,000+ test records, ensuring data quality for product analytics and reporting
 - Led competitive and market analysis across 5+ competitors and 25+ vendors; uncovered gaps in pricing, features, and capabilities. Provided strategic recommendations that shaped product positioning and go-to-market strategy
-- Established KPI framework for product analytics, defining key metrics (vendor response rate, buyer conversion, transaction volume) to measure product health. Framework adopted as baseline for post-launch growth tracking and reporting
+- Established KPI framework for product analytics, defining key metrics (vendor response rate, buyer conversion, transaction volume) to measure product health. Framework adopted cross-functionally as baseline for post-launch growth tracking
 
 ### 🚗 Maruti Suzuki India Limited — Gurugram, India  
 **Data Analyst** · *June 2022 – July 2023*
-- Built executive Power BI dashboard tracking product KPIs across 240+ vehicle models; consolidated data from 6+ sources, reducing reporting prep from 3 days to 4 hours weekly and enabling real-time launch readiness visibility for senior leadership
+- Reduced reporting prep from 3 days to 4 hours weekly by building executive Power BI dashboard tracking product KPIs across 240+ vehicle models; consolidated data from 6+ sources, enabling real-time launch readiness visibility for senior leadership
 - Executed customer segmentation analysis using SQL on dealer sales data (50K+ records) to identify high-value buyer profiles. Insights informed regional marketing strategy and targeted campaign planning across 15+ regions
 - Compiled competitive market intelligence on pricing, features, and market share trends across 10+ competitors. Presented findings to senior leadership, influencing product positioning and pricing decisions
 - Partnered with Marketing and Sales teams to deliver weekly KPI readouts and market intelligence briefs to 20+ stakeholders, enabling informed decision-making in global planning discussions with Suzuki Japan
