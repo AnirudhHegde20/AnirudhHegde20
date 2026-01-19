@@ -69,7 +69,7 @@ I’m Anirudh, a Data Analyst (Product & Growth Analytics) with 4+ years using S
 - Established KPI framework for product analytics, defining key metrics (vendor response rate, buyer conversion, transaction volume) to measure product health. Framework adopted as baseline for post-launch growth tracking and reporting
 
 ### 🚗 Maruti Suzuki India Limited — Gurugram, India  
-**Senior Data Analyst** · *June 2022 – July 2023*
+**Data Analyst** · *June 2022 – July 2023*
 - Built executive Power BI dashboard tracking product KPIs across 240+ vehicle models; consolidated data from 6+ sources, reducing reporting prep from 3 days to 4 hours weekly and enabling real-time launch readiness visibility for senior leadership
 - Executed customer segmentation analysis using SQL on dealer sales data (50K+ records) to identify high-value buyer profiles. Insights informed regional marketing strategy and targeted campaign planning across 15+ regions
 - Compiled competitive market intelligence on pricing, features, and market share trends across 10+ competitors. Presented findings to senior leadership, influencing product positioning and pricing decisions
