@@ -64,28 +64,28 @@ I’m Anirudh, a Data Analyst (Product & Growth Analytics) with 4+ years using S
 
 ### 🧩 Ipserlab LLC — USA  
 **Data Analyst** · *July 2025 – Present*
-- Designed a PostgreSQL data model (10+ tables) for vendor, product, and transaction data. Developed validation framework using Python and SQL with 1,000+ test records, ensuring data quality for product analytics and reporting
-- Led competitive and market analysis across 5+ competitors and 25+ vendors; uncovered gaps in pricing, features, and capabilities. Delivered strategic recommendations that shaped product positioning and go-to-market strategy
+- Designed a PostgreSQL data model (10+ tables) for vendor, product, and transaction data. Built validation framework using Python and SQL with 1,000+ test records, ensuring data quality for product analytics and reporting
+- Led competitive and market analysis across 5+ competitors and 25+ vendors; uncovered gaps in pricing, features, and capabilities. Provided strategic recommendations that shaped product positioning and go-to-market strategy
 - Established KPI framework for product analytics, defining key metrics (vendor response rate, buyer conversion, transaction volume) to measure product health. Framework adopted as baseline for post-launch growth tracking and reporting
 
 ### 🚗 Maruti Suzuki India Limited — Gurugram, India  
 **Senior Data Analyst** · *June 2022 – July 2023*
-- Built executive Power BI dashboard tracking product KPIs across 240+ vehicle models; consolidated data from 6+ sources, reducing manual reporting by 60% and enabling real-time launch readiness visibility for senior leadership
-- Performed customer segmentation analysis using SQL on dealer sales data (50K+ records) to identify high-value buyer profiles. Insights informed regional marketing strategy and targeted campaign planning across 15+ regions
-- Delivered competitive market intelligence on pricing, features, and market share trends across 10+ competitors. Presented findings to senior leadership, influencing product positioning and pricing decisions
+- Built executive Power BI dashboard tracking product KPIs across 240+ vehicle models; consolidated data from 6+ sources, reducing reporting prep from 3 days to 4 hours weekly and enabling real-time launch readiness visibility for senior leadership
+- Executed customer segmentation analysis using SQL on dealer sales data (50K+ records) to identify high-value buyer profiles. Insights informed regional marketing strategy and targeted campaign planning across 15+ regions
+- Compiled competitive market intelligence on pricing, features, and market share trends across 10+ competitors. Presented findings to senior leadership, influencing product positioning and pricing decisions
 - Partnered with Marketing and Sales teams to deliver weekly KPI readouts and market intelligence briefs to 20+ stakeholders, enabling informed decision-making in global planning discussions with Suzuki Japan
 
 ### 🏢 Godrej & Boyce Mfg Co Ltd — New Delhi, India  
 **Data Analyst** · *Jan 2021 – June 2022*
--  Analyzed client account performance using SQL and Power BI, tracking revenue, project profitability, and delivery metrics across 4-5 accounts. Pinpointed high-value clients contributing 60% of revenue and informed account prioritization strategy
-- Created client health dashboard tracking project delivery, cost performance, and satisfaction metrics across 10+ projects. Equipped account teams to flag and address at-risk clients, improving retention by 20%
-- Performed EDA and variance analysis on client project data to uncover cost drivers and delivery bottlenecks. Findings led to process improvements that reduced cost overruns by 15%
+- Analyzed client account performance using SQL and Power BI, tracking revenue, project profitability, and delivery metrics across 4-5 accounts. Pinpointed high-value clients contributing 60% of revenue and informed account prioritization strategy
+- Developed Power BI client health dashboard integrating delivery, cost, and satisfaction metrics across 10+ projects; enabled early risk detection, improving retention by 20%
+- Conducted EDA and variance analysis on client project data to uncover cost drivers and delivery bottlenecks. Findings led to process improvements that reduced cost overruns by 15%
 
 ### ⚡ AG Electrochem — Gurugram, India  
 **Business Analyst** · *May 2019 – Jan 2021*
 - Supported monthly sales analysis using Python and SQL for over 30 SKUs and 60 accounts, tracking product performance, regional demand, and customer mix; the insights informed account reviews and pricing discussions, leading to more accurate pricing decisions
 - Automated weekly and monthly sales reports tracking revenue trends across 5 regions. Enabled sales team to identify underperforming accounts and prioritize follow-ups, improving response time by 15%
-- Evaluated customer purchase patterns using RFM analysis to flag high-value accounts (top 20% driving 65% of revenue) and churn risks. Findings contributed to improved account retention and 25% reduction in stockouts
+- Conducted RFM analysis to segment customer base and identify top 20% accounts contributing 65% of revenue; insights improved retention planning and reduced stockouts by 25%
 
 ---
 
@@ -96,7 +96,7 @@ I’m Anirudh, a Data Analyst (Product & Growth Analytics) with 4+ years using S
 **Python:** Pandas, NumPy, Scikit-learn  
 **Customer Analytics & ML:** Churn Prediction, CLV Modeling, RFM Analysis, Retention Analysis, K-Means Clustering, XGBoost, SHAP  
 **BI & Visualization:** Power BI, Tableau, Plotly, Streamlit, Excel (Pivot Tables, VLOOKUP), KPI Dashboards  
-**Tools & Cloud:** Git, GitHub, Jira, Azure Data Factory, Databricks (PySpark), Azure Synapse Analytics
+**Tools & Cloud:** Git, GitHub, Jira, Azure Data Factory, Databricks (PySpark), Amplitude Azure Synapse Analytics
 
 ---
 
