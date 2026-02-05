@@ -64,39 +64,42 @@ I’m Anirudh, a Data Analyst (Product & Growth Analytics) with 4+ years using S
 
 ### 🧩 Ipserlab LLC — USA  
 **Data Analyst** · *July 2025 – Present*
-- Designed a PostgreSQL data model (10+ tables) for vendor, product, and transaction data. Built validation framework using Python and SQL with 1,000+ test records, ensuring data quality for product analytics and reporting
-- Led competitive and market analysis across 5+ competitors and 25+ vendors; uncovered gaps in pricing, features, and capabilities. Provided strategic recommendations that shaped product positioning and go-to-market strategy
-- Established KPI framework for product analytics, defining key metrics (vendor response rate, buyer conversion, transaction volume) to measure product health. Framework adopted cross-functionally as baseline for post-launch growth tracking
+- Defined and operationalized core marketplace metrics (buyer conversion, vendor response time, transaction volume) using SQL definitions and dashboards; established a company-wide standard that informed two roadmap reprioritizations and a pricing model revision
+- Designed a PostgreSQL marketplace data model (10+ tables), implementing Python- and SQL-based validation checks that eliminated metric inconsistencies and enabled reliable leadership reporting
+- Led competitive and vendor analysis across 25+ vendors and 5+ competitors, leveraging LLM tools to identify pricing gaps and feature tradeoffs that shaped product differentiation and supported two go-to-market pivots
+- Partnered with Product and Operations leads in weekly metric reviews, applying funnel analysis to translate performance shifts into prioritized product and operational actions
 
 ### 🚗 Maruti Suzuki India Limited — Gurugram, India  
 **Data Analyst** · *June 2022 – July 2023*
-- Reduced reporting prep from 3 days to 4 hours weekly by building executive Power BI dashboard tracking product KPIs across 240+ vehicle models; consolidated data from 6+ sources, enabling real-time launch readiness visibility for senior leadership
-- Executed customer segmentation analysis using SQL on dealer sales data (50K+ records) to identify high-value buyer profiles. Insights informed regional marketing strategy and targeted campaign planning across 15+ regions
-- Compiled competitive market intelligence on pricing, features, and market share trends across 10+ competitors. Presented findings to senior leadership, influencing product positioning and pricing decisions
-- Partnered with Marketing and Sales teams to deliver weekly KPI readouts and market intelligence briefs to 20+ stakeholders, enabling informed decision-making in global planning discussions with Suzuki Japan
+- Built an executive Power BI dashboard tracking KPIs across 240+ vehicle models, consolidating 6+ data sources from AWS S3 and reducing reporting prep from 3 days to 4 hours for senior leadership
+- Analyzed 50K+ dealer sales records in AWS Redshift using SQL (joins, window functions) to segment customers by purchase behavior and region, surfacing high-value buyer profiles that guided targeted marketing campaigns across 15+ regions
+- Led competitive intelligence across 10+ OEM competitors, tracking pricing, features, and market share; presented quarterly findings to VP-level leadership, shaping positioning and pricing strategy
+- Delivered weekly KPI readouts and market intelligence briefs to 20+ stakeholders using Power BI; reporting cadence adopted in global planning discussions with Suzuki Japan
 
 ### 🏢 Godrej & Boyce Mfg Co Ltd — New Delhi, India  
 **Data Analyst** · *Jan 2021 – June 2022*
-- Analyzed client account performance using SQL and Power BI, tracking revenue, project profitability, and delivery metrics across 4-5 accounts. Pinpointed high-value clients contributing 60% of revenue and informed account prioritization strategy
-- Developed Power BI client health dashboard integrating delivery, cost, and satisfaction metrics across 10+ projects; enabled early risk detection, improving retention by 20%
-- Conducted EDA and variance analysis on client project data to uncover cost drivers and delivery bottlenecks. Findings led to process improvements that reduced cost overruns by 15%
+- Evaluated client account performance using SQL and Power BI; quantified revenue concentration, showing that top clients contributed 60% of revenue and driving account prioritization decisions
+- Developed a client health dashboard integrating delivery timelines, cost variance, and satisfaction indicators across 10+ projects; enabled early identification of at-risk accounts, contributing to a 20% improvement in client retention
+- Performed root-cause analysis on project cost overruns and delivery bottlenecks, translating findings into targeted operational recommendations that reduced cost overruns by 15%
 
 ### ⚡ AG Electrochem — Gurugram, India  
 **Business Analyst** · *May 2019 – Jan 2021*
-- Supported monthly sales analysis using Python and SQL for over 30 SKUs and 60 accounts, tracking product performance, regional demand, and customer mix; the insights informed account reviews and pricing discussions, leading to more accurate pricing decisions
-- Automated weekly and monthly sales reports tracking revenue trends across 5 regions. Enabled sales team to identify underperforming accounts and prioritize follow-ups, improving response time by 15%
-- Conducted RFM analysis to segment customer base and identify top 20% accounts contributing 65% of revenue; insights improved retention planning and reduced stockouts by 25%
+- Conducted monthly sales analysis using Python and SQL across 30+ SKUs and 60 accounts, analyzing product performance and regional demand to support pricing discussions and account prioritization
+- Automated weekly and monthly sales reporting across 5 regions, enabling the sales team to identify underperforming accounts and prioritize follow-ups, improving response time by 15%
+- Executed RFM-based customer segmentation, isolating the top 20% of accounts contributing 65% of revenue; insights supported retention planning and inventory prioritization, reducing stockouts by 25%
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Analytics & Experimentation:** A/B Testing, Hypothesis Testing, Power Analysis, Chi-square, Cohort Analysis, Funnel Analysis, Segmentation  
-**SQL & Data Modeling:** SQL (CTEs, Window Functions, Joins), PostgreSQL, Data Modeling, ETL, Data Warehousing  
-**Python:** Pandas, NumPy, Scikit-learn  
-**Customer Analytics & ML:** Churn Prediction, CLV Modeling, RFM Analysis, Retention Analysis, K-Means Clustering, XGBoost, SHAP  
-**BI & Visualization:** Power BI, Tableau, Plotly, Streamlit, Excel (Pivot Tables, VLOOKUP), KPI Dashboards  
-**Tools & Cloud:** Git, GitHub, Jira, Azure Data Factory, Databricks (PySpark), Amplitude Azure Synapse Analytics
+| Category                          | Skills                                                                                                      |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Data Analysis & Querying**      | SQL (CTEs, Window Functions, Joins), PostgreSQL, Data Modeling, ETL, Data Warehousing                       |
+| **BI & Reporting**                | Power BI, Tableau, Excel (Pivot Tables, VLOOKUP), KPI Dashboards, Executive Reporting                       |
+| **Analytics & Experimentation**   | A/B Testing, Hypothesis Testing, Power Analysis, Chi-Square, Cohort Analysis, Funnel Analysis, Segmentation |
+| **Python & Statistical Analysis** | Python (Pandas, NumPy), Statistical Analysis, Exploratory Data Analysis                                     |
+| **Customer & Product Analytics**  | Churn Analysis, CLV Modeling, RFM Analysis, Retention Analysis, K-Means Clustering                          |
+| **Tools & Platforms**             | Git, GitHub, Jira, AWS (S3, Redshift), Azure, Databricks, PySpark, Amplitude, LLM tools (Claude, Gemini)    |
 
 ---
 
@@ -119,9 +122,9 @@ Coursework: Operations Research, Optimization Techniques, Numerical Analysis and
 ```text
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
-║   🟢 SEEKING: Data Analyst | BI Analyst | Product Analyst | Analytics Engineer ║
+║   🟢 SEEKING: Data Analyst | BI Analyst | Product Analyst                     ║
 ║                                                                               ║
 ║   📍 Location: Boston, MA (Open to Relocation)                                ║
-║   ✅ Work Authorization: F-1 OPT valid through June 2028                       ║
+║   ✅ Work Authorization: F-1 OPT valid through June 2028                      ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
