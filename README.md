@@ -71,10 +71,10 @@ I’m Anirudh, a Data Analyst (Product & Growth Analytics) with 4+ years using S
 
 ### 🚗 Maruti Suzuki India Limited — Gurugram, India  
 **Data Analyst** · *June 2022 – July 2023*
-- Built an executive Power BI dashboard tracking KPIs across 240+ vehicle models, consolidating 6+ data sources from AWS S3 and reducing reporting prep from 3 days to 4 hours for senior leadership
+- Built an executive Tableau dashboard tracking KPIs across 240+ vehicle models, consolidating 6+ data sources from AWS S3 and reducing reporting prep from 3 days to 4 hours for senior leadership
 - Analyzed 50K+ dealer sales records in AWS Redshift using SQL (joins, window functions) to segment customers by purchase behavior and region, surfacing high-value buyer profiles that guided targeted marketing campaigns across 15+ regions
 - Led competitive intelligence across 10+ OEM competitors, tracking pricing, features, and market share; presented quarterly findings to VP-level leadership, shaping positioning and pricing strategy
-- Delivered weekly KPI readouts and market intelligence briefs to 20+ stakeholders using Power BI; reporting cadence adopted in global planning discussions with Suzuki Japan
+- Delivered weekly KPI readouts and market intelligence briefs to 20+ stakeholders using Tableau; reporting cadence adopted in global planning discussions with Suzuki Japan
 
 ### 🏢 Godrej & Boyce Mfg Co Ltd — New Delhi, India  
 **Data Analyst** · *Jan 2021 – June 2022*
