@@ -84,7 +84,7 @@ I’m Anirudh, a Data Analyst (Product & Growth Analytics) with 4+ years using S
 
 ### ⚡ AG Electrochem — Gurugram, India  
 **Business Analyst** · *May 2019 – Jan 2021*
-- Conducted monthly sales analysis using Python and SQL across 30+ SKUs and 60 accounts, analyzing product performance and regional demand to support pricing discussions and account prioritization
+-Conducted monthly sales analysis using Python and SQL on 30+ SKUs across 60 accounts, uncovering product performance and regional demand trends that informed pricing decisions and helped prioritize high-value accounts
 - Automated weekly and monthly sales reporting across 5 regions, enabling the sales team to identify underperforming accounts and prioritize follow-ups, improving response time by 15%
 - Executed RFM-based customer segmentation, isolating the top 20% of accounts contributing 65% of revenue; insights supported retention planning and inventory prioritization, reducing stockouts by 25%
 
