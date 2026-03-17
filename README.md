@@ -3,6 +3,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anirudh%20Hegde&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Product%20%26%20Growth%20Analytics&descAlignY=52&descSize=18"/>
 </div>
 
+<!-- Profile Photo -->
+<div align="center">
+  <img src="profile.png" width="150" style="border-radius: 50%;" alt="Anirudh Hegde"/>
+</div>
+
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
