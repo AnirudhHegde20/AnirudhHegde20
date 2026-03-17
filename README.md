@@ -1,16 +1,7 @@
 <!-- Header Banner with Gradient Animation -->
 <!-- Animated Name Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=36&duration=2000&pause=3000&color=3ABFEF&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Anirudh+Hegde" alt="Name" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=3000&color=8B949E&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Data+Analyst+%7C+Product+%26+Growth+Analytics" alt="Title" />
-</div>
-
-<br/>
-
-<!-- Profile Photo -->
-<div align="center">
-  <img src="profile.png" width="150" alt="Anirudh Hegde"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anirudh%20Hegde&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%20Data%20Analyst%20%7C%20Product%20and%20Growth%20Analytics&descAlignY=52&descSize=18"/>
 </div>
 
 <br/>
@@ -129,7 +120,7 @@ Coursework: Operations Research, Optimization Techniques, Numerical Analysis and
 ## 🎯 Open to Opportunities
 
 <div align="center">
-```text
+
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
 ║   🟢 SEEKING: Data Analyst | Product Analyst | Growth Analyst                 ║
@@ -138,6 +129,6 @@ Coursework: Operations Research, Optimization Techniques, Numerical Analysis and
 ║   ✅ Work Authorization: F-1 OPT valid through June 2028                      ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+
 
 </div>
