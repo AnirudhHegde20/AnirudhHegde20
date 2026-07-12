@@ -1,145 +1,208 @@
 <div align="center">
 
-# Anirudh Hegde
-
-### Data Analyst | BI & Product Analytics | SQL | Python | Power BI | dbt
-
-</div>
+<img src="./assets/anirudh-analytics-header.gif" width="100%" alt="Anirudh Hegde animated analytics header"/>
 
 <br/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Data+Analyst+%7C+BI+Analyst+%7C+Product+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+PostgreSQL+%7C+dbt+Core;Funnel+Analysis+%7C+A%2FB+Testing+%7C+Forecasting+%7C+KPI+Reporting;MS+Data+Analytics+Engineering+%7C+Northeastern+University" alt="Typing SVG" />
-  </a>
+<a href="https://linkedin.com/in/anirudhhegde1997">
+  <img src="https://img.shields.io/badge/LinkedIn-Anirudh%20Hegde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:anirudh.hegde07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://anirudhhegde20.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AnirudhHegde20&label=PROFILE%20VIEWS&color=0E7490&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/AVAILABLE-IMMEDIATELY-22C55E?style=flat-square" alt="Available immediately"/>
+<img src="https://img.shields.io/badge/LOCATION-GURUGRAM%2C%20INDIA-38BDF8?style=flat-square" alt="Gurugram India"/>
+
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/anirudhhegde1997">
-    <img src="https://img.shields.io/badge/LinkedIn-Anirudh%20Hegde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anirudh.hegde07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anirudh.hegde07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://anirudhhegde20.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AnirudhHegde20&style=for-the-badge&color=brightgreen"/>
-</div>
+---
 
-<br/>
+## 👋 About Me
 
-## About Me
+<img align="right" src="./profile.png" width="220" alt="Anirudh Hegde profile photo"/>
 
-<img align="right" alt="Analytics and BI" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+I am a **Data Analyst with 3+ years of experience** across SaaS, automotive, and manufacturing. I use **SQL, Python, Power BI, PostgreSQL, and dbt Core** to turn business questions into reliable metrics, reproducible analysis, and practical recommendations.
 
-I'm **Anirudh Hegde**, a **Data Analyst with 3+ years of experience** across SaaS, automotive, and manufacturing. My work sits at the intersection of **business intelligence, product analytics, KPI reporting, funnel analysis, forecasting, and analytics engineering**.
+My experience spans **KPI design, funnel analysis, forecasting, experimentation, data modelling, executive dashboards, and analytics engineering**.
 
-I enjoy turning messy business workflows into clean data models, reliable dashboards, and insights that help product, strategy, and operations teams make better decisions.
+> **Good analytics does not end with a dashboard. It changes a decision.**
 
-* 🎓 **MS in Data Analytics Engineering** — Northeastern University, Boston | GPA: **3.92/4.0**
-* 📍 **Based in Gurugram, India** — Open to relocation across India
-* 🟢 **Availability:** Immediately available
-* 🎯 **Target roles:** Data Analyst | BI Analyst | Product Analyst | Analytics Engineer | Data Analytics Engineer
-
-**Core focus areas:**
-
-* SQL-based analytics, KPI reporting, and business performance tracking
-* BI dashboards and executive reporting using Power BI, Tableau, Excel, and Streamlit
-* Product analytics across funnels, cohorts, retention, churn, and A/B testing
-* Analytics engineering using PostgreSQL, dbt Core, data marts, and data quality tests
-* Python-based statistical analysis, forecasting, and machine learning for business problems
+- 🎓 **MS in Data Analytics Engineering**, Northeastern University, Boston — **3.92/4.0 GPA**
+- 📍 Based in **Gurugram, India** and open to relocation across India
+- ⚡ **Immediately available**
+- 🎯 Targeting **Data Analyst, BI Analyst, Product Analyst, and Analytics Engineer** roles
 
 <br clear="right"/>
 
 ---
 
-## Featured Projects
+## 📈 Impact at a Glance
 
-| Project                                                                                                                              | What it does                                                                                 | Business / Technical Highlights                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Stack                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 📊 **[SaaS Churn & Retention Analytics Pipeline](https://github.com/AnirudhHegde20/AI-Product-Retention-Analytics)**                 | End-to-end analytics engineering pipeline for SaaS retention, churn, and engagement analysis | Ingested **500K+ engagement records** and Product Hunt API data into a layered PostgreSQL warehouse using dbt Core; built raw, staging, and marts models; enforced reliability using **42 automated dbt and dbt-expectations tests** in GitHub Actions CI; modeled retention using Kaplan-Meier survival analysis and an XGBoost churn model with **0.71 AUC-ROC**; identified a **70% month-1 churn cliff**, **8x longer retention for Power Users**, and engagement frequency as the top churn driver | dbt Core, PostgreSQL, Python, XGBoost, Streamlit, GitHub Actions                      |
-| 🛒 **[E-commerce Conversion Optimization](https://github.com/AnirudhHegde20/Improving-Conversion-on-an-E-commerce-Product-Page)**    | Product analytics and A/B testing project for conversion analysis                            | Built an end-to-end A/B test analysis for a **2,000-user** product-page experiment; combined Chi-Square testing, Fisher's Exact segment tests, 95% confidence intervals, and view → cart → purchase funnel analysis; found **no statistically significant overall lift** from Treatment B (**7.5% to 8.8%, p=0.33**) and recommended against full rollout while treating Europe + Tablet underperformance as an exploratory signal                                                                      | Python, Pandas, SciPy, Statsmodels, Streamlit                                         |
-| 🤖 **[Automated Bilingual Complaint Classification System](https://github.com/AnirudhHegde20/Automated-BiLingual-Complaint-System)** | Data pipeline and ML system for English/Hindi complaint classification                       | Built an Airflow preprocessing pipeline for CFPB complaint data covering English/Hindi language filtering, schema validation, PII anonymization, abusive-content filtering, and BigQuery loading; fine-tuned mBERT and XLM-RoBERTa models for product and department routing; achieved **0.69 F1** on product classification; integrated Vertex AI deployment, fairness checks, drift monitoring, and CI/CD automation                                                                                  | Python, Airflow, Docker, GCP, Vertex AI, BigQuery, mBERT, XLM-RoBERTa, GitHub Actions |
+<div align="center">
+  <img src="./assets/impact-dashboard.png" width="100%" alt="Analytics impact dashboard"/>
+</div>
 
 ---
 
-## Experience Snapshot
+## 🚀 Featured Projects
 
-### Ipserlab LLC — USA
+### 1. SaaS Churn & Retention Analytics Pipeline
 
-**Data Analyst** · *Jul 2025 – May 2026*
+<a href="https://github.com/AnirudhHegde20/AI-Product-Retention-Analytics">
+  <img src="./assets/project-saas-retention.png" width="100%" alt="SaaS churn and retention analytics project"/>
+</a>
 
-* Standardized **12+ KPI definitions** for buyer conversion, vendor response time, and transaction volume, creating a SQL-based single source of truth that informed **2 product roadmap changes** and **1 pricing revision**.
-* Led weekly funnel reviews with Product and Operations teams, analyzing buyer requests, vendor matching, quote submission, and transaction flow to convert drop-off patterns into prioritized actions.
-* Built a PostgreSQL marketplace data model across **10+ tables** covering buyers, vendors, listings, quotes, and transactions, replacing ad hoc queries with reusable reporting logic.
-* Implemented **15+ Python and SQL validation checks** for null detection, join integrity, duplicate records, and data freshness, catching upstream data issues before weekly leadership KPI reviews.
+**Decision supported:** Which behaviours predict early churn, and which user segments retain longest?
 
-### Maruti Suzuki India Limited — India
-
-**Assistant Manager, Powertrain Planning Analytics** · *Jun 2022 – Jul 2023*
-
-* Benchmarked **8 powertrain variants** against **240+ competitor models** across **10+ OEMs**, synthesizing fuel-efficiency, pricing, technology, and regulatory trends into a data-backed roadmap adopted by senior leadership.
-* Owned CAFE compliance analytics for the full vehicle fleet, modeling engine-wise fuel-efficiency projections, sales-mix scenarios, and emissions impact to support a **10% improvement** in projected fuel-efficiency targets.
-* Developed engine-wise sales and carbon-emission forecasts through **2027** and built a Power BI dashboard tracking weekly actuals against projections.
-* Led weekly KPI reporting and planning reviews across powertrain, sales, and strategy stakeholders, translating forecast variances and competitor movements into product planning recommendations.
-
-### Godrej & Boyce Mfg Co Ltd — India
-
-**Assistant Manager, Project & Business Analytics** · *Jan 2021 – Jun 2022*
-
-* Analyzed performance across up to **4 concurrent government B2B contracts**, tracking cost variance, timeline adherence, resource utilization, and delivery risk.
-* Delivered a weekly Power BI project health dashboard consolidating delivery timelines, site issues, procurement status, and financial variance, replacing manual reporting with a centralized view for senior management.
-* Performed root-cause analysis on project cost overruns, tracing variance to supplier delays, procurement gaps, and reporting issues; supported operational fixes that reduced overruns by **15%**.
-* Quantified revenue concentration across **40+ client accounts**, identifying that the top 5 accounts contributed **60% of revenue** and informing retention prioritization and resource allocation.
+- Built an end-to-end analytics pipeline for **500K+ synthetic engagement records**
+- Created layered raw, staging, and marts models with **42 automated tests**
+- Applied Kaplan-Meier survival analysis and XGBoost, achieving **0.71 AUC-ROC**
+- Identified a **70% month-1 churn cliff**, **8× longer retention for Power Users**, and engagement frequency as the strongest churn driver
 
 ---
 
-## Technical Skills
+### 2. E-commerce Conversion Optimization
 
-| Category                    | Skills                                                                                                             |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **SQL & Databases**         | SQL, PostgreSQL, CTEs, Window Functions, Data Modeling, Schema Design, Data Quality Testing                        |
-| **BI & Reporting**          | Power BI, Tableau, DAX, Business Intelligence, KPI Reporting, Executive Dashboards, Stakeholder Reporting          |
-| **Analytics**               | A/B Testing, Hypothesis Testing, Funnel Analysis, Cohort Analysis, Retention Analysis, Churn Modeling, Forecasting |
-| **Python & Data Science**   | Python, Pandas, NumPy, SciPy, Scikit-learn, XGBoost, NLP, mBERT, XLM-RoBERTa, Model Evaluation                     |
-| **Data Stack & Automation** | dbt Core, Airflow, Docker, GitHub Actions, CI/CD, ETL/ELT, GCP, BigQuery, Vertex AI, Cloud Run                     |
+<a href="https://github.com/AnirudhHegde20/Improving-Conversion-on-an-E-commerce-Product-Page">
+  <img src="./assets/project-ecommerce-ab-test.png" width="100%" alt="E-commerce conversion optimization project"/>
+</a>
 
----
+**Decision supported:** Should a redesigned product page be rolled out?
 
-## Education
-
-**Northeastern University** — Boston, MA
-**MS in Data Analytics Engineering** · *May 2025* · GPA: **3.92/4.0**
-
-**Guru Gobind Singh Indraprastha University** — New Delhi, India
-**BTech in Mechanical and Automation Engineering** · *Sept 2020*
+- Analysed a **2,000-user A/B test** using Chi-square testing, Fisher's exact tests, confidence intervals, and funnel analysis
+- Evaluated the complete **view → cart → purchase** journey
+- Found no statistically significant lift from Treatment B: **7.5% → 8.8%, p=0.33**
+- Recommended against full rollout and treated the Europe + Tablet result as exploratory
 
 ---
 
-## Currently Open To
+### 3. Automated Bilingual Complaint Classification System
+
+<a href="https://github.com/AnirudhHegde20/Automated-BiLingual-Complaint-System">
+  <img src="./assets/project-bilingual-nlp.png" width="100%" alt="Bilingual complaint classification project"/>
+</a>
+
+**Decision supported:** How can English and Hindi complaints be routed automatically?
+
+- Built an Airflow preprocessing pipeline with language filtering, schema validation, PII anonymisation, and abusive-content filtering
+- Loaded processed data into BigQuery and fine-tuned mBERT and XLM-RoBERTa
+- Achieved **0.69 F1** for product classification
+- Added Vertex AI deployment, fairness checks, drift monitoring, and CI/CD automation
+
+---
+
+## 🧰 Analytics & Data Stack
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,postgres,gcp,docker,git,github,vscode&theme=dark" alt="Core tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/dbt%20Core-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt Core"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge" alt="XGBoost"/>
+
+</div>
+
+<br/>
+
+| Capability | Tools and methods |
+|---|---|
+| **SQL & Data Modelling** | SQL, PostgreSQL, CTEs, window functions, dimensional modelling, schema design, data-quality testing |
+| **BI & Reporting** | Power BI, DAX, Power Query, Tableau, Advanced Excel, KPI reporting, executive dashboards |
+| **Product Analytics** | Funnel analysis, cohorts, retention, churn, A/B testing, hypothesis testing, conversion analysis |
+| **Advanced Analytics** | Forecasting, survival analysis, root-cause analysis, statistical modelling, machine-learning evaluation |
+| **Data Engineering** | dbt Core, Airflow, Docker, GitHub Actions, ETL/ELT, BigQuery, GCP, CI/CD |
+
+---
+
+## 💼 Experience Snapshot
+
+### Ipserlab LLC, USA
+**Data Analyst** · *Jul 2025 – Apr 2026*
+
+- Standardized **12+ marketplace KPIs** across buyer conversion, vendor response time, and transaction volume
+- Analysed the buyer journey from request creation through vendor matching, quotations, and transaction completion
+- Designed reusable PostgreSQL reporting logic across **10+ tables**
+- Implemented **15+ Python and SQL validation checks** for reporting reliability
+
+### Maruti Suzuki India Limited, India
+**Assistant Manager, Powertrain Planning (Analytics)** · *Jun 2022 – Jul 2023*
+
+- Benchmarked **8 powertrain variants** against **240+ competitor models across 10+ OEMs**
+- Modelled fleet fuel-efficiency, sales-mix, emissions, and compliance scenarios
+- Developed forecasts through **2027** and an actual-vs-plan Power BI dashboard
+
+### Godrej & Boyce Mfg. Co. Ltd., India
+**Assistant Manager, Project Management (Analytics)** · *Jan 2021 – Jun 2022*
+
+- Built a weekly Power BI project-health dashboard across **4 government contracts**
+- Supported a **15% reduction in cost overruns** through root-cause analysis
+- Analysed revenue concentration across **40+ client accounts**
+
+---
+
+## 🎓 Education
+
 <table>
-  <tr>
-    <td align="center">
-      <b>🟢 Seeking</b><br/>
-      Data Analyst · BI Analyst · Product Analyst · Analytics Engineer
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>📍 Location</b><br/>
-      Gurugram, India · Open to relocation across India
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>⚡ Availability</b><br/>
-      Immediately available
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Northeastern University
+**MS in Data Analytics Engineering**  
+Boston, Massachusetts · May 2025  
+**GPA: 3.92/4.0**
+
+</td>
+<td width="50%" valign="top">
+
+### Guru Gobind Singh Indraprastha University
+**BTech in Mechanical and Automation Engineering**  
+New Delhi, India · Sep 2020
+
+</td>
+</tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🤝 Let’s Connect
+
+I am interested in roles where analytics can improve product, business, and operational decisions.
+
+<a href="mailto:anirudh.hegde07@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anirudh"/>
+</a>
+<a href="https://linkedin.com/in/anirudhhegde1997">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://anirudhhegde20.github.io">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+**Data Analyst · BI Analyst · Product Analyst · Analytics Engineer**
 
 </div>
